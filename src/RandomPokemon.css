@@ -1,0 +1,14 @@
+body{
+	text-align: center;
+	background: linear-gradient(to right, rgb(55, 0, 255), rgb(235, 0, 0));
+	letter-spacing: .3em;
+}
+
+.RandomPokemon {
+  border: 90px dotted rgb(206, 196, 12);
+  width: 500px;
+}
+
+.RandomPokemon h1 {
+  color: rgb(7, 223, 108);
+}
